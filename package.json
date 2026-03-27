@@ -1,0 +1,26 @@
+{
+  "name": "vue2webcomponent",
+  "version": "1.0.0",
+  "description": "Vue组件转换为WebComponent",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-YuJun/vue2webcomponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "vite": "^2.8.4"
+  },
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "bugs": {
+    "url": "https://github.com/code-YuJun/vue2webcomponent/issues"
+  },
+  "homepage": "https://github.com/code-YuJun/vue2webcomponent#readme"
+}
